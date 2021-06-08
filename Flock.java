@@ -20,7 +20,7 @@ public class Flock extends JComponent implements ActionListener {
 	//CONSTANTS==========================
 	private float size= 10;
 	private int numBirds=300;
-	private int numOwls=1;
+	private int numOwls=2;
 
 	private int owlRad=120;
 	private int radius=90;
